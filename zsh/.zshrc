@@ -109,3 +109,5 @@ source $ZSH/oh-my-zsh.sh
 
 # opencode
 export PATH=/home/nox/.opencode/bin:$PATH
+export PATH=$HOME/.local/bin:$PATH
+export WARP_ENABLE_WAYLAND=1

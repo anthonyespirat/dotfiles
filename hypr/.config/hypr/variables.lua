@@ -1,0 +1,5 @@
+terminal = "ghostty"
+fileManager = "nautilus"
+menu = "vicinae toggle"
+browser = "vivaldi-snapshot"
+code_editor = "dev.zed.Zed-Preview"
